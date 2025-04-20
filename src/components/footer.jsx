@@ -19,7 +19,7 @@ const Footer = ({ darkMode }) => {
   return (
     <footer style={footerStyle}>
       <p style={textStyle}>
-        © {new Date().getFullYear()} <b>Faseeh Qureshi.</b> All rights reserved.
+        © {new Date().getFullYear()} <b> <i>Faseeh Qureshi.</i></b> All rights reserved.
       </p>
     </footer>
   );

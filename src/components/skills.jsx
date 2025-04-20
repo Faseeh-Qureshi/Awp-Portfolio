@@ -3,7 +3,7 @@ import React from 'react';
 const skills = [
   'HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS',
   'Node.js', 'Express.js', 'MongoDB',
-  'Flutter', 'Dart', 'Git', 'REST APIs'
+  'Flutter', 'Dart', 'Git', 'REST APIs', 'ML', 'Generative AI',' DBMS',' Requirements Engineering', 'DevOps', 'MLOps', 'Project Management', 'Agile', 'Scrum', 'Figma',
 ];
 
 const Skills = ({ darkMode }) => {
